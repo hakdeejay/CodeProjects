@@ -1,2 +1,2 @@
-# CodeProjects
- Various Hacking Projects
+# Python Scripts
+ Various Hacking scripts from different tutorials and projects
